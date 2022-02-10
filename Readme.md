@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<h1> Hey there! I'm Rashi.</h1>
-
+<h1> Hey there! I'm Rashi. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
