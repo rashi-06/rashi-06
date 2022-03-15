@@ -5,7 +5,7 @@ I'm a pre-final student pursuing Bachelors's in Computer Science 🎓 from IES, 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💼 &nbsp; I’m currently looking for web developer internship. 
-- 🎓 &nbsp; Developing web applications on Node.js, Express.js, React, Graphql, MongoDB, etc 💻.
+- 🎓 &nbsp; Developing web applications on Node.js, Express.js, React, MongoDB, etc 💻.
 - 🌱 &nbsp; Learning more about Machine Learning.
 - 💬 &nbsp; Ask me about anything! I am happy to help and guide.
 <h3> 🛠 &nbsp;Tech Stack</h3>
