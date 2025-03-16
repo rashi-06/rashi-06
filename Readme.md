@@ -1,6 +1,6 @@
 <h1> Hey there! I'm Rashi. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a pre-final year student pursuing a Bachelor's in Computer Science 🎓 from IES, IPS Academy, Indore. 🏛 I'm a Software Developer with hands-on experience in multiple tech stacks, including MERN, MEAN, and Spring Boot with Angular 💡. I enjoy exploring new technologies and leveraging them to solve real-world problems ✨. Currently, I'm focusing on Web Development 🕸️ and sharpening my Data Structures and Algorithms skills 🤓.
+I'm a Software Developer with hands-on experience in multiple tech stacks, including MERN, MEAN, and Spring Boot with Angular 💡. I enjoy exploring new technologies and leveraging them to solve real-world problems ✨. Currently, I'm focusing on Web Development 🕸️ and sharpening my Data Structures and Algorithms skills 🤓.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
