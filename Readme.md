@@ -1,13 +1,13 @@
 <h1> Hey there! I'm Rashi. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a pre-final student pursuing Bachelors's in Computer Science 🎓 from IES, IPS Academy, Indore. 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a pre-final year student pursuing a Bachelor's in Computer Science 🎓 from IES, IPS Academy, Indore. 🏛 I'm a Software Developer with hands-on experience in multiple tech stacks, including MERN, MEAN, and Spring Boot with Angular 💡. I enjoy exploring new technologies and leveraging them to solve real-world problems ✨. Currently, I'm focusing on Web Development 🕸️ and sharpening my Data Structures and Algorithms skills 🤓.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; I’m currently looking for web developer internship. 
-- 🎓 &nbsp; Developing web applications on Node.js, Express.js, React, MongoDB, etc 💻.
-- 🌱 &nbsp; Learning more about Machine Learning.
-- 💬 &nbsp; Ask me about anything! I am happy to help and guide.
+- 🎓 &nbsp; Experienced in full-stack development with MERN, MEAN, and Spring Boot - Angular 💻.
+- 🌱 &nbsp; Currently learning more about Machine Learning.
+- 💬 &nbsp; Ask me anything! I'm happy to help and collaborate.
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -15,21 +15,26 @@ I'm a pre-final student pursuing Bachelors's in Computer Science 🎓 from IES, 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
  
- 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=DD0031)
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring&logoColor=6DB33F)
+
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
+
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=000000)
 
 <br/>
